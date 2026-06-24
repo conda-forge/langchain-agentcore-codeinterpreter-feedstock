@@ -148,5 +148,9 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@3coins](https://github.com/3coins/)
+* [@ccurme](https://github.com/ccurme/)
+* [@mdrxy](https://github.com/mdrxy/)
 * [@michaelnchin](https://github.com/michaelnchin/)
+* [@sundargthb](https://github.com/sundargthb/)
 
