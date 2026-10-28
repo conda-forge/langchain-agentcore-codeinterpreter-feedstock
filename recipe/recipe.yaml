@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.5"
+  version: "0.0.6"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/langchain-agentcore-codeinterpreter/langchain_agentcore_codeinterpreter-${{ version }}.tar.gz
-  sha256: 210acb38b866f8fe924e485078a31299247fe1fda0e181889f34873850334ab3
+  sha256: 8ba25fa3669bf09551fbabcfd40d0e2888808a96bacab1e9bb151b5b2b9ca419
 
 build:
   number: 0
